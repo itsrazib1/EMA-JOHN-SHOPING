@@ -1,0 +1,16 @@
+.header {
+  min-width: 87%;
+  height: 80px;
+  position: absolute;
+  background: #1c2b35;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 100px;
+  padding-right: 100px;
+  align-items: center;
+}
+nav.header a {
+  text-decoration: none;
+  color: white;
+  margin-left: 30px;
+}

@@ -1,0 +1,9 @@
+.cartBg {
+  position: sticky;
+  top: 0;
+  width: 264px;
+  height: 944px;
+  padding: 23px;
+  margin-top: -20px;
+  background: rgba(255, 153, 0, 0.3);
+}
